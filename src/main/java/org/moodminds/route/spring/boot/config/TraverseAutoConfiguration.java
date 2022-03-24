@@ -28,6 +28,6 @@ public class TraverseAutoConfiguration {
     @Bean
     @ConditionalOnMissingBean
     public Routes traverseRoutes() {
-        return new Routes(true);
+        return new Routes();
     }
 }
