@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.moodminds.route.spring.boot.config.TraverseRoutesAutoConfiguration,\
+  org.moodminds.route.spring.boot.config.ReactiveRoutesAutoConfiguration
