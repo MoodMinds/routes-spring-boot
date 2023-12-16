@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thank you for your interest in contributing to Routes Spring Boot!
+Thank you for your interest in contributing to **Routes Spring Boot**!
 
 **Project Status: Experimental and Under Development**
 
