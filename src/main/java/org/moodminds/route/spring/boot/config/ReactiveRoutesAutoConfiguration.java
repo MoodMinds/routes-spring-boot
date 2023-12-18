@@ -32,7 +32,7 @@ public class ReactiveRoutesAutoConfiguration {
         try {
             return new Routes();
         } catch (Exception ex) {
-            throw new BeanCreationException("Failed to create Publishable Routes instance.", ex);
+            throw new BeanCreationException("Failed to create Reactive Routes instance.", ex);
         }
     }
 }

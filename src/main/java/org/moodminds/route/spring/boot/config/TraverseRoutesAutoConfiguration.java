@@ -32,7 +32,7 @@ public class TraverseRoutesAutoConfiguration {
         try {
             return new Routes();
         } catch (Exception ex) {
-            throw new BeanCreationException("Failed to create Traversable Routes instance.", ex);
+            throw new BeanCreationException("Failed to create Traverse Routes instance.", ex);
         }
     }
 }
